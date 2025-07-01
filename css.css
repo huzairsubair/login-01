@@ -1,0 +1,25 @@
+body{
+    background-image: url('back.jpg');
+     background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; /* Optional: centers the image */
+    
+    
+}
+p{
+        font-size: x-large;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .bb{
+        text-align: center;
+        
+    }
+    .aa{
+        margin-left: -8.6em;
+    }
+    .dd{
+        margin-left: -75px;
+    }
+    .cc{
+        margin-top: 1em;
+    }
